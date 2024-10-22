@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @AikSaiWan
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate who also learning React
+- 👀 I’m interested in coding.
+- 🌱 I’m currently learning Front end.
+- 💞️ I’m looking to collaborate who also learning Front end.
 - 📫 How to reach me saiaiksai0113@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 AikSaiWan/AikSaiWan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
