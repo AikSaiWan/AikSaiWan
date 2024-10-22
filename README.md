@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @AikSaiWan
+👨‍💻 About Me :
+- 👋 Hi, I’m @AikSaiWan From Myanmar.
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning Front end.
-- 💞️ I’m looking to collaborate who also learning Front end.
+- 🌱 I’m currently learning Front-end(HTML,CSS,Bootstrap,JavaScript,React).
+- 💞️ I’m looking to collaborate who also learning Front-end.
 - 📫 How to reach me saiaiksai0113@gmail.com
 
 <!---
